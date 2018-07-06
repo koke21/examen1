@@ -134,7 +134,7 @@ body{
 /* Footer */
 
 .footer {
-  background-color: #251f1fd9;
+  background-color: #11A5D5;
   padding: 2vw 1rem;
   text-align: left;
 }
@@ -156,3 +156,6 @@ input[type=text], input[type=tel], input[type=email] {
     padding: 20px;
     letter-spacing: 7px;
 }
+
+/* seccion  */
+
